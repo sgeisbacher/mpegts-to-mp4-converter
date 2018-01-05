@@ -1,5 +1,9 @@
 # mpegts-to-mp4-converter
+## pre-requisits
+- docker
+- make
 ## install
+you only have to build the docker-base-image with:
 ```sh
 make
 ```
